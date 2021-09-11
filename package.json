@@ -1,0 +1,24 @@
+{
+  "name": "spscoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrNobody07/SPScoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrNobody07/SPScoin/issues"
+  },
+  "homepage": "https://github.com/MrNobody07/SPScoin#readme"
+}
